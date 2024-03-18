@@ -1,4 +1,4 @@
-# Datamodels
+#  Sample Data models
 1) Entity-Relationship Diagram (ERD):
 * This is a simple ERD with entities for "Customer" and "Order" connected by a one-to-many relationship, where one customer can place many orders.
    
